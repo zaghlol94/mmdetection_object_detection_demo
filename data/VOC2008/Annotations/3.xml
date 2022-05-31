@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ImageSets</folder>
+	<folder>Images</folder>
 	<filename>3.png</filename>
-	<path>/home/zaghlol/projects/mmdetection_object_detection_demo/data/VOCdevkit/VOC2008/ImageSets/3.png</path>
+	<path>/home/zaghlol/projects/mmdetection_object_detection_demo/data/VOCdevkit/VOC2008/Images/3.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>borederless</name>
+		<name>borderless</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
